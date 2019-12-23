@@ -1,0 +1,3 @@
+[submodule "neural-network-visualizer"]
+	path = neural-network-visualizer
+	url = https://github.com/nrmilstein/neural-network-visualizer.git
